@@ -10,6 +10,17 @@ $(document).ready(function() {
 	if ( !getCookie('d21_notice') ) {
 		$('.notice').show();
 	}
+	$('#btop-left').html('<a href="https://layarkuy21.blogspot.com" target="_blank" rel="nofollow"><img src="https://s1.layarkaca21.vip/assets/ux777-header.gif" class="img-responsive"></a>');
+	$('#btop-right').html('<a href="https://layarkuy21.blogspot.com" target="_blank" rel="nofollow"><img src="https://s1.layarkaca21.vip/assets/top-right.gif" class="img-responsive"></a>');
+
+	$('#bmid-left').html('<a href="https://layarkuy21.blogspot.com" target="_blank" rel="nofollow"><img src="https://s1.layarkaca21.vip/assets/top-left-jun.gif" class="img-responsive"></a>');
+	$('#bmid-right').html('<a href="https://layarkuy21.blogspot.com" target="_blank" rel="nofollow"><img src="https://s1.layarkaca21.vip/assets/top-right.gif" class="img-responsive"></a>');
+
+	$('#bplayer-single').html('<a href="https://layarkuy21.blogspot.com" target="_blank" rel="nofollow"><img src="https://s1.layarkaca21.vip/assets/player-single.gif" class="img-responsive"></a>');
+
+	$('#bsquare').html('<a href="https://layarkuy21.blogspot.com" target="_blank" rel="nofollow"><img src="https://s1.layarkaca21.vip/assets/MILD88-Sidebar.gif" class="img-responsive"></a><br /><a href="http://www.qq338ww.com/?Id=8914&AdType=0" target="_blank" rel="nofollow"><img src="https://s1.layarkaca21.vip/assets/Sidebar_qq338.gif" class="img-responsive"></a>');
+
+	$('#player-below-b').html('<a href="https://layarkuy21.blogspot.com" target="_blank" rel="nofollow"><img src="https://s1.layarkaca21.vip/assets/below-player-jun.gif" class="img-responsive"></a>');
 
 	/*$('<div class="alert alert-info alert-dismissible" style="margin-bottom:10px"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button><strong>Pemberitahuan</strong>. Domain Layarkaca21 Lk21 Dunia21.net berubah menjadi <a href="https://layarkuy21.blogspot.com/">LayarKuy21</a>. Maaf atas ketidak nyamanannya.</div>').insertBefore('.hot-slider');*/
 
