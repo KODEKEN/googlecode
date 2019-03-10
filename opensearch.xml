@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>LayarKuy21</ShortName>
+<Description>Layarkaco21 Search</Description>
+<Url type="text/html" method="get" template="https://layarkuy21.blogspot.com/search?q={searchTerms}&utm_source=ops&utm_medium=wb&utm_campaign=OpenSearch"/>
+<Image width="16" height="16">https://layarkuy21.blogspot.com/favicon.ico</Image>
+<InputEncoding>UTF-8</InputEncoding>
+<moz:SearchForm>https://layarkuy21.blogspot.com</moz:SearchForm>
+</OpenSearchDescription>
